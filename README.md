@@ -1,2 +1,4 @@
 # Padhega_India_Website
-Padhega India is an educational platform designed to provide quality learning resources and opportunities for students across India.
+. Designed and developed a fully responsive Padhega India website using HTML, CSS and Bootstrap.
+. Developed an engaging and visually appealing user interface using modern frontend technologies.
+. Visit the Live Website: 
